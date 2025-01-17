@@ -1,0 +1,44 @@
+{
+	"PlayerData": [
+		{
+			"ID": 93900,
+			"Forename": "Törles",
+			"Surname": "KNÖLL",
+			"ImageURL": "<https://cdn.soccerwiki.org/images/player/93900.png>"
+		},
+		{
+			"ID": 152414,
+			"Forename": "Vuko",
+			"Surname": "Noah",
+			"ImageURL": "<https://s3p.sofifa.net/f529fad2f6b29905e38a8d859efe6e5200abb081.png>"
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 4650,
+			"Name": "HNK Vukovar '91",
+			"ShortName": "VUK",
+			"ImageURL": "<https://cdn.soccerwiki.org/images/logos/clubs/4650.png>"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 184,
+			"Name": "2.HNL",
+			"ImageURL": "<https://cdn.soccerwiki.org/images/logos/leagues/184.png>"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 27,
+			"Name": "Hrvatski Nogometni Kup",
+			"ImageURL": "<https://cdn.soccerwiki.org/images/logos/cups/27.jpg>"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 4654,
+			"Name": "Gradski stadion u Borovu Naselju"
+		}
+	]
+}
